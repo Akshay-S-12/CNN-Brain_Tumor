@@ -44,18 +44,7 @@ This project aims to assist medical professionals by providing an automated meth
 
 ---
 
-## 📂 Folder Structure
 
-```
-project/
-│── dataset/
-│── model/
-│── notebooks/
-│── predictions/
-│── app.py
-│── requirements.txt
-│── README.md
-```
 
 
 
